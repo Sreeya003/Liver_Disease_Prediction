@@ -5,4 +5,4 @@ Utilized the Indian Liver Patient Dataset (ILPD) from the University of Californ
 
 Employed advanced machine learning algorithms such as Logistic Regression, Random Forest, and Naive Bayes for accurate predictions.
 
-Orchestrated the creation of an intuitive Flask interface, enabling users to determine their liver health status confidently. Selected the most accurate machine learning algorithm to determine outcomes
+Orchestrated the creation of an intuitive Flask interface, enabling users to determine their liver health status confidently. Selected the most accurate machine learning algorithm to determine outcomes.
